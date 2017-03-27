@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-change-node-border-width/sample-change-node-border-width.iml" filepath="$PROJECT_DIR$/sample-change-node-border-width/sample-change-node-border-width.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-control-panel/sample-control-panel.iml" filepath="$PROJECT_DIR$/sample-control-panel/sample-control-panel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-control-panel-simple/sample-control-panel-simple.iml" filepath="$PROJECT_DIR$/sample-control-panel-simple/sample-control-panel-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-nested-network/sample-create-nested-network.iml" filepath="$PROJECT_DIR$/sample-create-nested-network/sample-create-nested-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-network/sample-create-network.iml" filepath="$PROJECT_DIR$/sample-create-network/sample-create-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-network-simple/sample-create-network-simple.iml" filepath="$PROJECT_DIR$/sample-create-network-simple/sample-create-network-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-network-view/sample-create-network-view.iml" filepath="$PROJECT_DIR$/sample-create-network-view/sample-create-network-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-table/sample-create-table.iml" filepath="$PROJECT_DIR$/sample-create-table/sample-create-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-create-visual-style/sample-create-visual-style.iml" filepath="$PROJECT_DIR$/sample-create-visual-style/sample-create-visual-style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-custom-layout/sample-custom-layout.iml" filepath="$PROJECT_DIR$/sample-custom-layout/sample-custom-layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-delete-table-column/sample-delete-table-column.iml" filepath="$PROJECT_DIR$/sample-delete-table-column/sample-delete-table-column.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-embed-dependencies/sample-embed-dependencies.iml" filepath="$PROJECT_DIR$/sample-embed-dependencies/sample-embed-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-equation-function/sample-equation-function.iml" filepath="$PROJECT_DIR$/sample-equation-function/sample-equation-function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-get-selected-nodes/sample-get-selected-nodes.iml" filepath="$PROJECT_DIR$/sample-get-selected-nodes/sample-get-selected-nodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-help/sample-help.iml" filepath="$PROJECT_DIR$/sample-help/sample-help.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-icon-action/sample-icon-action.iml" filepath="$PROJECT_DIR$/sample-icon-action/sample-icon-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-icon-action-simple/sample-icon-action-simple.iml" filepath="$PROJECT_DIR$/sample-icon-action-simple/sample-icon-action-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-import-visual-style/sample-import-visual-style.iml" filepath="$PROJECT_DIR$/sample-import-visual-style/sample-import-visual-style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-network-events-listener/sample-network-events-listener.iml" filepath="$PROJECT_DIR$/sample-network-events-listener/sample-network-events-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-network-reader-simple/sample-network-reader-simple.iml" filepath="$PROJECT_DIR$/sample-network-reader-simple/sample-network-reader-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-save-restore-state-file/sample-save-restore-state-file.iml" filepath="$PROJECT_DIR$/sample-save-restore-state-file/sample-save-restore-state-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-service-listener/sample-service-listener.iml" filepath="$PROJECT_DIR$/sample-service-listener/sample-service-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-set-network-background-color/sample-set-network-background-color.iml" filepath="$PROJECT_DIR$/sample-set-network-background-color/sample-set-network-background-color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-set-session-property/sample-set-session-property.iml" filepath="$PROJECT_DIR$/sample-set-session-property/sample-set-session-property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-table-reader/sample-table-reader.iml" filepath="$PROJECT_DIR$/sample-table-reader/sample-table-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-use-task-monitor/sample-use-task-monitor.iml" filepath="$PROJECT_DIR$/sample-use-task-monitor/sample-use-task-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-use-webservice/sample-use-webservice.iml" filepath="$PROJECT_DIR$/sample-use-webservice/sample-use-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-view-context-menus/sample-view-context-menus.iml" filepath="$PROJECT_DIR$/sample-view-context-menus/sample-view-context-menus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-view-tasks/sample-view-tasks.iml" filepath="$PROJECT_DIR$/sample-view-tasks/sample-view-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-webservice-client/sample-webservice-client.iml" filepath="$PROJECT_DIR$/sample-webservice-client/sample-webservice-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-zoom-network-view/sample-zoom-network-view.iml" filepath="$PROJECT_DIR$/sample-zoom-network-view/sample-zoom-network-view.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="sample-change-node-border-width" />
+        <module name="sample-control-panel" />
+        <module name="sample-create-nested-network" />
+        <module name="sample-create-network" />
+        <module name="sample-create-network-view" />
+        <module name="sample-create-table" />
+        <module name="sample-create-visual-style" />
+        <module name="sample-custom-layout" />
+        <module name="sample-delete-table-column" />
+        <module name="sample-embed-dependencies" />
+        <module name="sample-equation-function" />
+        <module name="sample-get-selected-nodes" />
+        <module name="sample-help" />
+        <module name="sample-icon-action" />
+        <module name="sample-import-visual-style" />
+        <module name="sample-network-events-listener" />
+        <module name="sample-save-restore-state-file" />
+        <module name="sample-service-listener" />
+        <module name="sample-set-network-background-color" />
+        <module name="sample-set-session-property" />
+        <module name="sample-table-reader" />
+        <module name="sample-use-task-monitor" />
+        <module name="sample-use-webservice" />
+        <module name="sample-view-context-menus" />
+        <module name="sample-view-tasks" />
+        <module name="sample-webservice-client" />
+        <module name="sample-zoom-network-view" />
+      </profile>
+      <profile default="false" name="Annotation profile for sample-icon-action-simple" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="sample-icon-action-simple" />
+      </profile>
+      <profile default="false" name="Annotation profile for sample-control-panel-simple" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="sample-control-panel-simple" />
+      </profile>
+      <profile default="false" name="Annotation profile for sample-create-network-simple" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="sample-create-network-simple" />
+      </profile>
+      <profile default="false" name="Annotation profile for sample-network-reader-simple" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="sample-network-reader-simple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parent" target="1.5" />
+      <module name="sample-change-node-border-width" target="1.5" />
+      <module name="sample-control-panel" target="1.5" />
+      <module name="sample-control-panel-simple" target="1.6" />
+      <module name="sample-create-nested-network" target="1.5" />
+      <module name="sample-create-network" target="1.5" />
+      <module name="sample-create-network-simple" target="1.6" />
+      <module name="sample-create-network-view" target="1.5" />
+      <module name="sample-create-table" target="1.5" />
+      <module name="sample-create-visual-style" target="1.5" />
+      <module name="sample-custom-layout" target="1.5" />
+      <module name="sample-delete-table-column" target="1.5" />
+      <module name="sample-embed-dependencies" target="1.5" />
+      <module name="sample-equation-function" target="1.5" />
+      <module name="sample-get-selected-nodes" target="1.5" />
+      <module name="sample-help" target="1.5" />
+      <module name="sample-icon-action" target="1.5" />
+      <module name="sample-icon-action-simple" target="1.6" />
+      <module name="sample-import-visual-style" target="1.5" />
+      <module name="sample-network-events-listener" target="1.5" />
+      <module name="sample-network-reader-simple" target="1.6" />
+      <module name="sample-save-restore-state-file" target="1.5" />
+      <module name="sample-service-listener" target="1.5" />
+      <module name="sample-set-network-background-color" target="1.5" />
+      <module name="sample-set-session-property" target="1.5" />
+      <module name="sample-table-reader" target="1.5" />
+      <module name="sample-use-task-monitor" target="1.5" />
+      <module name="sample-use-webservice" target="1.5" />
+      <module name="sample-view-context-menus" target="1.5" />
+      <module name="sample-view-tasks" target="1.5" />
+      <module name="sample-webservice-client" target="1.5" />
+      <module name="sample-zoom-network-view" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
